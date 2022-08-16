@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -7,6 +9,8 @@ header {
     color: #000a6c;
     height: 40vh;
     border: 5px solid ;
+    padding: 3em;
+    background-color: aliceblue
 }
 
 header img {
@@ -15,5 +19,11 @@ header img {
 }
 
 h1 {
+    font-family: 'Alfa Slab One', cursive;
     font-size: 3rem;
+}
+
+.menu nav {
+    border: 2px solid  black;
+    
 }
