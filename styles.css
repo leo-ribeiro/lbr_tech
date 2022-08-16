@@ -5,9 +5,15 @@
 header {
     display: flex;
     color: #000a6c;
+    height: 40vh;
+    border: 5px solid ;
 }
 
 header img {
-    height: 50px;
-    width: 50px;
+    height: 20vh;
+    width: 12vw;
+}
+
+h1 {
+    font-size: 3rem;
 }
