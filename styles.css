@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    color: #000a6c;
+}
+
+header img {
+    height: 50px;
+    width: 50px;
+}
