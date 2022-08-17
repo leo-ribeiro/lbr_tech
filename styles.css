@@ -23,10 +23,12 @@ header img {
 h1 {
     font-family: 'Alfa Slab One', cursive;
     font-size: 3rem;
-    margin: 2%;
+    height: 5rem;
+    margin: auto;
 }
 
 .menu {
     border: 2px solid  black;
     list-style: none;
+    margin: auto;
 }
