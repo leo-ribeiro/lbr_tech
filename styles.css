@@ -6,11 +6,13 @@
 
 header {
     display: flex;
+    flex-direction: row;
     color: #000a6c;
     height: 40vh;
     border: 5px solid ;
     padding: 3em;
     background-color: aliceblue
+  
 }
 
 header img {
@@ -21,9 +23,10 @@ header img {
 h1 {
     font-family: 'Alfa Slab One', cursive;
     font-size: 3rem;
+    margin: 2%;
 }
 
-.menu nav {
+.menu {
     border: 2px solid  black;
-    
+    list-style: none;
 }
